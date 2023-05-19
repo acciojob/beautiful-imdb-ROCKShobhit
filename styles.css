@@ -3,7 +3,7 @@
 .moviePic{
 	height:100px;
 	width:120px;
-	opacity:70px;
+	opacity:0.5;
 }
 .movieDetail{
 	position:static;
